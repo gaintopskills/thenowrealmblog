@@ -32,15 +32,8 @@
         {
           "name": "Vegeterian Survival Guide",
           "url": "/categories"
-        },
-      /*  {
-          "name": "Search",
-          "url": "/search"
-        },
-        {
-          "name": "404 Page",
-          "url": "/404"
-        }*/
+        }
+   
       ]
     }
   ],

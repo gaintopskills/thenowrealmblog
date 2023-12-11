@@ -9,28 +9,28 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
+      "name": "Weight Loss",
       "url": "/elements"
     },
     {
-      "name": "Pages",
+      "name": "Nutrition",
       "url": "",
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
+          "name": "Nutrients in Food Sourses",
           "url": "/contact"
         },
         {
-          "name": "Blog",
+          "name": "Symptoms of Nutrient Deficiencies",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "My Best Diet",
           "url": "/authors"
         },
         {
-          "name": "Categories",
+          "name": "Vegeterian Survival Guide",
           "url": "/categories"
         },
         {

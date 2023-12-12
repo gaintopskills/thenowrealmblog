@@ -27,9 +27,8 @@ features:
     image: "/images/longevity.webp"
     content: You owe it to both yourself and your family to cultivate a robust and healthy body. However, many individuals often find themselves uncertain about where to commence or how to sustain their journey. I am here to not only demonstrate what I personally undertake but also to guide you on your own path.
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - Types of workouts
+      - Longevity exersises
     button:
       enable: true
       label: "Get Started Now"
@@ -39,10 +38,10 @@ features:
     image: "/images/the-secrets-to-optimal-nutrition.webp"
     content: Nutrition is a complex field that demands a deep understanding. It encompasses more than just weight management; it involves protecting your body from the adverse effects of nutrient deficiencies or excesses. It might come as a surprise that through proper nutrition, you can potentially decelerate the aging process and even reverse some DNA damage. Allow me to demonstrate how.
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - Nutrient Deficiencies 
+      - Foods thta fix nutrient deficiencies
+      - "My Best Diet"
+     
     button:
       enable: false
       label: ""

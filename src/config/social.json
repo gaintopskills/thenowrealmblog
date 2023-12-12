@@ -1,14 +1,24 @@
 {
   "main": [
     {
-      "name": "instagram",
-      "icon": "FaInstagram",
-      "link": "https://www.instagram.com/thenowrealm/"
+      "name": "facebook",
+      "icon": "FaFacebook",
+      "link": "https://www.facebook.com/"
     },
     {
-      "name": "facebook",
-      "icon": "FaYoutube",
-      "link": "https://www.youtube.com/thenowrealm"
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://www.github.com/"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/"
     }
   ]
 }

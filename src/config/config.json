@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Longevity Journey",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
@@ -24,12 +24,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [Gain Top Skills](https://gaintopskills.com)"
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "News Letter",
     "link": "https://github.com/zeon-studio/astroplate"
   },
 

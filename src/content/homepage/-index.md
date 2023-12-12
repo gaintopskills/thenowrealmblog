@@ -23,9 +23,9 @@ features:
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
-    image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+  - title: "Fitness Tools"
+    image: "/images/longevity.webp"
+    content: You owe it to both yourself and your family to cultivate a robust and healthy body. However, many individuals often find themselves uncertain about where to commence or how to sustain their journey. I am here to not only demonstrate what I personally undertake but also to guide you on your own path.
     bulletpoints:
       - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
       - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."

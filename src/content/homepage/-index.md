@@ -11,16 +11,13 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
-    image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+  - title: "Weight Loss Tools"
+    image: "/images/weight-loss-secrets-and-tricks-600.webp"
+    content: "Losing weight is a challenginf task for many. I, too, faced my own share of struggles during a time when reliable information was scarce. It took me years of diligent research, reading countless books and articles, to finally discover what worked best for me. Eventually, I triumphed over this challenge, not only shedding the excess pounds but also maintaining a healthy weight. Now, I want to share with you what I know and help you on your journey."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - Nutrition
+      - Exercise
+      - Mindset
     button:
       enable: false
       label: "Get Started Now"

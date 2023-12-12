@@ -3,7 +3,7 @@
 banner:
   title: "Longevity And Wellness Journey"
   content: "This website is a collection of tools and articles indended to help you stay young and healthy."
-  image: "/images/banner.png"
+  image: "/images/sign-up-for-longevity-and-health-newsletter.webp"
   button:
     enable: true
     label: "Longevity Tools"

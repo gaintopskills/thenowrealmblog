@@ -35,9 +35,9 @@ features:
       label: "Get Started Now"
       link: "https://github.com/zeon-studio/astroplate"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
-    image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Nutritional Tools"
+    image: "/images/the-secrets-to-optimal-nutrition.webp"
+    content: Nutrition is a complex field that demands a deep understanding. It encompasses more than just weight management; it involves protecting your body from the adverse effects of nutrient deficiencies or excesses. It might come as a surprise that through proper nutrition, you can potentially decelerate the aging process and even reverse some DNA damage. Allow me to demonstrate how.
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."

@@ -10,15 +10,15 @@ testimonials:
     avatar: "/images/avatar-sm.png"
     content: "The Thymus As A Key Target For Aging Intervention."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Dr. Fitzgerald'"
+    designation: "YOunger You"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "3 year biological age reversal after just 8 weeks."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "David Sinclair"
+    designation: "A study published Jan. 12 in Cell"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "We think of the processes behind aging, and diseases related to aging, as irreversible. In the case of the eye, there is the misconception that you need to regrow new nerves. But in some cases the existing cells are just not functioning, so if you reboot them, they are fine. It’s a new way to think about medicine."
 
   - name: "Marvin McKinney"
     designation: "Web Designer"

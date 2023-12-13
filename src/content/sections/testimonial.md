@@ -1,14 +1,14 @@
 ---
 enable: true
-title: "What Users Are Saying About Astroplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Astroplate."
+title: "Is Age Reversal Possible?"
+description: "Read what researches say after conduting age reversal trials."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Dr. Greg Fahy"
+    designation: "TRIIM Trial"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "The Thymus As A Key Target For Aging Intervention."
 
   - name: "Marvin McKinney"
     designation: "Web Designer"

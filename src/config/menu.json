@@ -35,6 +35,10 @@
         }
    
       ]
+    },
+    {
+      "name": "Contact",
+      "url": "/contact"
     }
   ],
   "footer": [

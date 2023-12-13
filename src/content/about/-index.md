@@ -2,7 +2,7 @@
 title: "Hey, I am Vega!"
 meta_title: "About"
 description: "this is meta description"
-image: "/images/avatar.png"
+image: "/images/weight-loss-secrets-and-tricks-600.webp"
 draft: false
 ---
 

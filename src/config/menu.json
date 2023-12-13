@@ -47,6 +47,10 @@
       "url": "/elements"
     },
     {
+      "name": "Blog",
+      "url": "/blog"
+    },
+    {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }

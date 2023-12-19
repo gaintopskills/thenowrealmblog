@@ -25,7 +25,7 @@ Our bodies need al the vitamins and minerals to work optimally. Some vitamins an
 [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy")
 
 [__Vitamin A__](https://duckduckgo.com "Fix Vitamin A deficiencies")
-<p><a title="Fix Vitamin A deficiencies" href="choline-best-food-sources"><b>Vitamin A</b></a></p>
+<p><a title="Fix Vitamin A deficiencies" href="choline-best-food-sources.html"><b>Vitamin A</b></a></p>
 <p><a title="Fix Vitamin B1 Thiamin deficiencies" href="vitamin-b1-thiamin-best-food-sources.html"><b>Vitamin B1 Thiamin</b></a></p>
 <p><a title="Fix Vitamin B2 Reboflavin deficiencies" href="vitamin-b2-riboflavin-best-food-sources.html"><b>B2 Reboflavin</b></a></p>
 <p><a title="Fix Vitamin B3 Niacin deficiencies" href="vitamin-b3-niacin-best-food-sources.html"><b>B3 Niacin</b></a></p>

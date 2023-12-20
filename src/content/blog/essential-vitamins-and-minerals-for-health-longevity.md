@@ -4,7 +4,7 @@ meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/the-secrets-to-optimal-nutrition.webp"
-categories: ["Fix Nutrient Deficiensy", "Weight Loss"]
+categories: ["Nutrient Deficiencies", "Weight Loss"]
 author: "Sam Wilson"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false

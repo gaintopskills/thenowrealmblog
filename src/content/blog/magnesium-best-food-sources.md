@@ -11,7 +11,6 @@ draft: false
 ---
 
  <h1>Manganese Deficiency</h1>
-            <img alt="Fix Manganese Deficiency - Symptoms, Food Sources, Supplements."" class="responsiveimg-300" width="300" height="300" alt="longevity secrets how to stay young" src="../../../images/optimize-you-fitness-for-longevity-600.webp" />
             <h2>My Best Food Sources of Manganese</h2>
           <p>Lentils, natto, sunflower seeds, hep seeds, baked sweet potatoes, shiitake, leek.</p>
 <h2>Symptoms of Manganese  Deficiency</h2>

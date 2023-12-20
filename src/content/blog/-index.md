@@ -1,5 +1,5 @@
 ---
-title: "Blog Posts"
+title: "Longevity Blog"
 meta_title: ""
-description: "this is meta description"
+description: "Information about longevity."
 ---

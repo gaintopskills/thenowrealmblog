@@ -12,7 +12,7 @@ draft: false
  <h1>Choline Deficiency</h1>
             <h2>My Best Food Sources of Choline</h2>
           <p>
-          Egg yolks, pumpkin seeds, lentils, natto</p>
+          Egg yolks, pumpkin seeds, lentils, natto.</p>
 <h2>Symptoms of Choline Deficiency</h2>
  
  <p><b>Internal Organs:</b></p>

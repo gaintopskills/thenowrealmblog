@@ -3,7 +3,7 @@ title: "Copper, Cu Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/copper-ritch-vegeterian-foods.jpg"
+image: "/images/copper-ritch-vegeterian-foods.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]

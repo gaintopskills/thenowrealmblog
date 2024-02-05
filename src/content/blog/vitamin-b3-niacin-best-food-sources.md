@@ -9,10 +9,9 @@ author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
-  <h1>Vitamin B3 Niacin Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin B3 Niacin</h2>
-          <p>
-          Lentils,pumpkin seeds, hemp seeds, avocados, chlorella, sweet potatoes, white button mushrooms, shiitake, sourdough.</p>
+<h1>Vitamin B3 Niacin Deficiency</h1>
+<h2>My Best Food Sources of Vitamin B3 Niacin</h2>
+ <p>Buckwheat, sunflower seeds, pumpkin seeds, lentils, hemp seeds, avocados, chlorella, baked sweet potatoes, shiitake, white button mushrooms, avocado, sourdough.</p>
 <h2>Symptoms of Vitamin B3 Niacin deficiency</h2>
 <p><b>Skin:</b></p> <p>Dark, sometimes scaly rash to develop on skin areas exposed to sunlight.</p>
 <p><b>Nails:</b> </p><p>&bull; Bluish discoloration of nails</p><p>&bull; Blue-black pigmentation with dark longitudinal streaks</p>

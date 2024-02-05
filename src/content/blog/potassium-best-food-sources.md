@@ -3,7 +3,7 @@ title: "Potassium Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/potsassium-rich-foods-posassium-defisiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -11,7 +11,7 @@ draft: false
 ---
 <h1>Potassium Deficiency</h1>
             <h2>My Best Food Sources of Potassium</h2>
-          <p>Pumpkin seeds, sunflower seeds, avocado, baked sweet potato.</p>
+          <p>Pumpkin seeds, sunflower seeds, avocado, buckwheat, lentins, baked sweet potato, kiwi, apple, orange</p>
 <h2>Symptoms of Potassium  Deficiency</h2>
 <h2>Internal organs:</h2>
 <p>An abnormal heart rhythm (arrhythmia) — skipped heartbeats or an irregular heartbeat</p>

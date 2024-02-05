@@ -13,7 +13,7 @@ draft: false
 <h1>Sodium Deficiency</h1>
             <img alt="Fix Sodium Deficiency - Symptoms, Food Sources, Supplements."" class="responsiveimg-300" width="300" height="300" alt="longevity secrets how to stay young" src="../../../images/optimize-you-fitness-for-longevity-600.webp" />
             <h2>My Best Food Sources of Sodium</h2>
-          <p></p>
+          <p>Grass fed cheddar cheese sourkrout.</p>
 <h2>Digestion</h2><p>Nausea and vomiting</p>
 <h2>Muscle:</h2><p>&bull; Muscle weakness</p><p>&bull; Spasms or cramps</p>
 <h2>Mood:</h2><p>&bull; Loss of energy</p><p>&bull; Drowsiness and fatigue</p><p>&bull; Restlessness and irritability</p><p>&bull; Confusion</p><p>&bull; Irritability</p><p>&bull; Restlessness</p><p>&bull; Convulsions</p><p>&bull; Fatigue</p><p>&bull; Headache</p><p>&bull; Loss of appetite</p><p>&bull; Lethargy, or low energy</p><p>&bull; Mental status changes</p><p>&bull; Seizures</p><p>&bull; Coma</p><p>&bull; Mental status changes</p>

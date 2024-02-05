@@ -3,7 +3,7 @@ title: "Vitamin B1 Thiamin Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/b1-food-sources-b1-vitamin-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -11,7 +11,7 @@ draft: false
 ---
    <h1>Vitamin B1 Thiamin Deficiency</h1>
             <h2>My Best Food Sources of Vitamin B1 Thiamin</h2>
-          <p>Chlorella, baked sweet potato, tomato, orange, broccoli, nutritional yeast, wheat germ</p>
+          <p>Baked sweet potato, lentils, pumpking seeds, natto, buckwheat, orange, avocado</p>
 <h2>Symptoms of Vitamin B1 Thiamin Deficiency</h2>
 <p><b>Nails:</b></p><p>&bull; Blue fingertips when exposed to cold</p><p>&bull; Horizontal nail ridges</p>
 <p><b>Hair:</b> </p><p>&bull; Dandruff and dry hair</p>

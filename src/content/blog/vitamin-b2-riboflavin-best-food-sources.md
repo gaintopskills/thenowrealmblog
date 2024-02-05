@@ -3,17 +3,15 @@ title: "Vitamin B2 Riboflavin Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vitamin-b2-riboflavin-ritch-foods.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
  <h1>Vitamin B2 Riboflavin Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin B2 Riboflavin</h2>
-          <p>
-          Pumpkin seeds, sunflower seeds, wheat germ.
-</p>
+<h2>My Best Food Sources of Vitamin B2 Riboflavin</h2>
+ <p>Buckwheat, pumpkin seeds, sunflower seeds, sunflower seeds, baked sweet potato, white button mushrooms, eggs, lentils, natto, avocado</p>
 <h2>Symptoms of Vitamin B2 Riboflavin Deficiency</h2>
 <p><b>Skin:</b></p><p>&bull; Skin crack</p><p>&bull; Itching</p><p>&bull; Dermatitis around the mouth</p><p>&bull; Angular stomatitis (lesions at the corners of the mouth)</p> <p>&bull; Cheilosis (swollen, cracked lips)
 </p>

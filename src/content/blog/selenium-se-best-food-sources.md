@@ -3,15 +3,15 @@ title: "Selenium, Se Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/selenium-ritch-foods-selenium-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
-            <h1>Selenium, Se Deficiency</h1>
-            <h2>My Best Food Sources of Selenium, Se</h2>
-          <p>Sunflower seeds, shiitake.</p>
+<h1>Selenium, Se Deficiency</h1>
+<h2>My Best Food Sources of Selenium, Se</h2>
+<p>Sunflower seeds, shiitake, buckwheat.</p>
 <h2>Symptoms of Selenium, Se  Deficiency</h2>
 <h2>Hair:</h2><p>&bull; Hair loss</p><p>&bull; Loss of pigmentation of the hair and skin</p>
 <h2>Nails:</h2><p>&bull; Weak, brittle nails</p><p>&bull; White spots on the nails</p><p>&bull; Whitening of nail beds</p>

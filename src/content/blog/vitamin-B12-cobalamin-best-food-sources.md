@@ -3,7 +3,7 @@ title: "Vitamin B12 Cobalamin Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/b12-vegetrian-sourses-b12-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]

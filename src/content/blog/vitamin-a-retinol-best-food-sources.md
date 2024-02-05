@@ -3,7 +3,7 @@ title: "Vitamin A Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vitamin-a-food-sources-vitamin-a-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -13,7 +13,7 @@ draft: false
  <h1>Vitamin A Deficiency</h1>
             <h2>My Best Food Sources of Vitamin A</h2>
           <p>
-          Chlorella, sweet potatoes, cheddar, leeks, papaya.
+          Chlorella, baked sweet potatoes, papaya, tomato(cooked), parsley, mango, arugula, cheddar, orange.
 </p>
 <h2>Symptoms of Vitamin A deficiency</h2>
 <p><b>Skin:</b></p> <p>Dryness, itching, and scaling, acne and breakouts</p>

@@ -11,8 +11,8 @@ draft: false
 ---
  <h1>Phosphorus Deficiency</h1>
 
-            <h2>My Best Food Sources of Phosphorus</h2>
-          <p>Lentils, pumpkin seeds, hemp seeds.</p>
+ <h2>My Best Food Sources of Phosphorus</h2>
+   <p>Buckwheat, lentils, pumpkin seeds, hemp seeds, sunflower seeds.</p>
 <h2>Symptoms of Phosphorus  Deficiency</h2>
 <h2>Internal organs:</h2><p>Bone fragility</p>
 <h2>Muscle:</h2><p>&bull; Muscle weakness</p><p>&bull; Muscle pain‌</p><p>&bull; Issues with the blood</p><p>&bull; Depletion of muscles</p>

@@ -3,17 +3,15 @@ title: "Vitamin B6 Pyridoxine Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/pyridoxine-vitamin-b6-food-sourses.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
 <h1>Vitamin B6 Pyridoxine Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin B6 Pyridoxine</h2>
-          <p>
-           Lentils, pumpkin seeds, sunflower seeds, baked sweet potatoes, shiitake, apples.
-</p>
+<h2>My Best Food Sources of Vitamin B6 Pyridoxine</h2>
+ <p> Buckwheat, lentils, pumpkin seeds, sunflower seeds, baked sweet potatoes, shiitake, apples, avocado.</p>
 <h2>Symptoms of Vitamin B6 Pyridoxine Deficiency</h2>
 <p><b>Skin:</b></p>
 <p>&bull; Inflammation of the skin (dermatitis) and a red, greasy, scaly rash</p>

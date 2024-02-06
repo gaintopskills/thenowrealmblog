@@ -2,9 +2,9 @@
 enable: true
 title: "Rea?"
 image: "/images/call-to-action.png"
-description: "Experience the future of web development with Astroplate and Astro. Build lightning-fast static sites with ease and flexibility."
+description: "Tools that will help you live longer and healthier life."
 button:
   enable: true
   label: "Get Started Now"
-  link: "https://github.com/zeon-studio/astroplate"
+  link: "https://thenowrealm.com/blog"
 ---

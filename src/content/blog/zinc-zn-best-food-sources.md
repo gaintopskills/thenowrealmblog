@@ -3,7 +3,7 @@ title: "Zinc, Zn Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/zinc-zn-food-sources-zinc-zn-deficiencies.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -12,7 +12,7 @@ draft: false
 
  <h1>Zinc, Zn Deficiency</h1>
             <h2>My Best Food Sources of Zinc, Zn</h2>
-          <p>Lentils, natto, sunflower seeds, avocados</p>
+          <p>Lentils, natto, buckwheat, sunflower seeds, pumpking seeds, hemp seeds, shiitake, avocados, papaya.</p>
 <h2>Symptoms of Zinc, Zn  Deficiency</h2>
 <h2>Skin:</h2><p> Skin and hair changes</p>
 <h2>Hair:</h2><p>Hair loss</p>

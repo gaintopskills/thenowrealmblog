@@ -9,9 +9,8 @@ author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
-    <h1>Vitamin E Alpha Tocopherol Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin E Alpha Tocopherol</h2>
-          <p>sunflower seeds, pumpkin seeds, avocados, kiwi.
+ <h1>Vitamin E Alpha Tocopherol Deficiency</h1>
+<h2>My Best Food Sources of Vitamin E Alpha Tocopherol</h2><p>Sunflower seeds, avocados, pumpkin seeds, kiwi.
 </p>
 <h2>Symptoms of Vitamin E Alpha Tocopherol deficiency</h2>
 <p><b>Skin:</b></p> <p>Dry skin</p>

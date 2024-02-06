@@ -11,8 +11,8 @@ draft: false
 ---
 
    <h1>Iron, Fe Deficiency</h1>
-            <h2>My Best Food Sources of Iron, Fe</h2>
-          <p>Pumpkin seeds, sunflower seeds, lentils, natto, cacao.</p>
+<h2>My Best Food Sources of Iron, Fe</h2>
+<p>Pumpkin seeds, lentils, natto, sunflower seeds, buckwheat, hemp seeds, parsley, cacao.</p>
 <h2>Symptoms of Vitamin Iron, Fe  Deficiency</h2>
 <h2>Hair:</h2> <p>Dry and damaged hair</p>
 <h2>Nails:</h2><p>&bull;  Brittle nails</p><p>&bull;  Spoon nails</p>

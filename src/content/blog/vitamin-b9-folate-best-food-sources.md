@@ -12,8 +12,7 @@ draft: false
 
  <h1>Vitamin B9 Folate Deficiency</h1>
             <h2>My Best Food Sources of Vitamin B9 Folate</h2>
-          <p>
-          Chlorella, sweet potatoes, cheddar, leeks, papaya.
+          <p> Lentils, beats, avocados, sweet potatoes, parsley, cheddar, leeks, mango, buckwheat, broccoli, orange, papaya, kiwi.
 </p>
 <h2>Symptoms of Vitamin B9 Folate Deficiency</h2>
  

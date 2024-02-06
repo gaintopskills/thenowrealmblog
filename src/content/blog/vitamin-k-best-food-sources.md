@@ -3,7 +3,7 @@ title: "Vitamin K Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vitamin-k-food-sourses-vitamin-k-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -11,8 +11,8 @@ draft: false
 ---
 
   <h1>Vitamin K Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin K</h2>
-          <p>Leek, natto, avocado, kefir, cheddar cheese.</p>
+ <h2>My Best Food Sources of Vitamin K</h2>
+ <p>Parsley, sourkrout, leek, arugula, natto, avocado, kefir, kiwi, blueberries, broccoli.</p>
 <h2>Symptoms of Vitamin K Deficiency</h2>
 <p><b>Skin:</b></p> <p>Easy bruising</p>
  <h2>Internal organs</h2> <p>&bull; Poor bone mineral density</p><p>&bull; Increased risk of bone fractures</p>

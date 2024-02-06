@@ -1,9 +1,9 @@
 ---
-title: "Vitamin Calcium Deficiency"
+title: "Calcium Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/calcium-food-sourses-calcium-food-deficiencies.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -12,7 +12,7 @@ draft: false
 
  <h1>Vitamin Calcium Deficiency</h1>
             <h2>My Best Food Sources of Vitamin Calcium</h2>
-          <p>Natto, kefir, cheddar</p>
+          <p>Kefir, natto, cheddar.</p>
 <h2>Symptoms of Vitamin Calcium Deficiency</h2>
 <p><b>Skin:</b></p><p>&bull;  Dry skin</p><p>&bull;  Eczema, or skin inflammation that can lead to itchy or dry patches</p><p>&bull;  Psoriasis</p>
 <h2>Hair:</h2><p>&bull;  Coarse hair</p><p>&bull;  Alopecia (hair to fall out in patches)</p>

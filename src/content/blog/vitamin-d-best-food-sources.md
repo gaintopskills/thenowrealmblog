@@ -1,16 +1,16 @@
 ---
-title: "Vitamin Calcium Deficiency"
+title: "Vitamin D Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vitamin-d-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
 
- <h1>Vitamin Vitamin D Deficiency</h1>
+ <h1>Vitamin D Deficiency</h1>
             <h2>My Best Food Sources of Vitamin D</h2>
           <p>Pumpkin seeds, sunflower seeds, avocados.</p>
 <h2>Symptoms of Vitamin D deficiency</h2>

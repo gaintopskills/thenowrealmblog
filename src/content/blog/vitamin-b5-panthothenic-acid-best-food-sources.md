@@ -3,7 +3,7 @@ title: "Vitamin B5 Pantothenic Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/vitamin-b5-panthothenic-acid-food-sources.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -12,7 +12,7 @@ draft: false
 
    <h1>Vitamin B5 Pantothenic Deficiency</h1>
             <h2>My Best Food Sources of Vitamin B5 Pantothenic Acid</h2>
-          <p> Lentils, pumpkin seeds, sunflower seeds, avocado, baked sweet potatoes, white button mushrooms, shiitake.</p>
+          <p> Lentils, pumpkin seeds, sunflower seeds, avocado, buckwheat, baked sweet potatoes, white button mushrooms, shiitake, egg yolk, apple, broccoli</p>
 <h2>Symptoms of Vitamin B5 Pantothenic Acid deficiency</h2>
 <p><b>Digestion:</b> Nausea, vomiting, stomach cramps</p>
 <p><b>Mood:</b>

@@ -11,8 +11,7 @@ draft: false
 ---
 <h1>Vitamin B12 Cobalamin Deficiency</h1>
             <h2>My Best Food Sources of Vitamin B12 Cobalamin </h2>
-          <p>Supplementation.
-</p>
+          <p>Eggs, chlorella, raw kifer, ages cheddar cheese, nutritional yeast, suplementation.</p>
 <h2>Symptoms of Vitamin B12 Cobalamin deficiency</h2>
 <p><b>Skin:</b></p> <p>Pale yellow skin color</p>
  

@@ -10,10 +10,9 @@ tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
 
-   <h1>Vitamin C Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin C</h2>
-          <p>Orange, Sour Crout, broccoli, avocado, tomato, leeks, chlorella, kiwi.
-</p>
+<h1>Vitamin C Deficiency</h1>
+ <h2>My Best Food Sources of Vitamin C</h2>
+ <p>Orange, mango, kiwi, sourkrout, broccoli, parsley, avocado, tomatoes (cooked), leeks, chlorella, baked sweet potatoes, bell peppers, apple, blueberries.</p>
 <h2>Symptoms of Vitamin C Deficiency</h2>
 <p><b>Skin:</b></p> <p>&bull; Perifollicular hemorrhages</p>
  <p>&bull; Red or blue spots on the skin,usually on the shins</p>

@@ -3,7 +3,7 @@ title: "Biotin Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/biotine-food-sources-biotin-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -11,10 +11,8 @@ draft: false
 ---
 
   <h1>Biotin Deficiency</h1>
-            <h2>My Best Food Sources of Vitamin Biotin</h2>
-          <p>
-          Pumpkin seeds, sunflower seeds.
-</p>
+<h2>My Best Food Sources of Vitamin Biotin</h2>
+<p>Egg yolks, sunflower seeds, baked sweet potatoes, </p>
 <h2>Symptoms of Biotin Deficiency</h2>
 <p><b>Skin:</b></p>
  <p>&bull; Red rashes on the skin, especially the face</p>

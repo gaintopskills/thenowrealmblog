@@ -3,7 +3,7 @@ title: "Vitamin B9 Folate Deficiency"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/folate-b9-rich-foods-vitamin-b9-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
 author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
@@ -12,7 +12,7 @@ draft: false
 
  <h1>Vitamin B9 Folate Deficiency</h1>
             <h2>My Best Food Sources of Vitamin B9 Folate</h2>
-          <p> Lentils, beats, avocados, sweet potatoes, parsley, cheddar, leeks, mango, buckwheat, broccoli, orange, papaya, kiwi.
+          <p> Lentils, beats, avocados, sweet potatoes, sourdough, parsley, leeks, mango, buckwheat, broccoli, orange, papaya, kiwi.
 </p>
 <h2>Symptoms of Vitamin B9 Folate Deficiency</h2>
  

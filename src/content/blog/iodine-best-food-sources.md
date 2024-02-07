@@ -10,7 +10,7 @@ tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
 
-     <h1>Iodine I, Deficiency</h1>
+ <h1>Iodine I, Deficiency</h1>
             <img alt="Fix Iodine I, Deficiency - Symptoms, Food Sources, Supplements."" class="responsiveimg-300" width="300" height="300" alt="longevity secrets how to stay young" src="../../../images/optimize-you-fitness-for-longevity-600.webp" />
             <h2>My Best Food Sources of Iodine I</h2>
           <p>Seaweed, kelp supplement.</p>

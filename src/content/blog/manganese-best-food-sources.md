@@ -9,7 +9,7 @@ author: "John Doe"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---
-    <h1>Magnesium Deficiency</h1>
+<h1>Magnesium Deficiency</h1>
             <h2>My Best Food Sources of Magnesium</h2>
           <p>Lentils, natto, sunflower seeds, hemp seeds.</p>
 <h2>Symptoms of Magnesium  Deficiency</h2>

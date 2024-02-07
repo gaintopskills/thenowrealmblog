@@ -29,8 +29,8 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "News Letter",
-    "link": "/contact"
+    "label": "Stay Updated",
+    "link": "/stay-updated"
   },
 
   "disqus": {

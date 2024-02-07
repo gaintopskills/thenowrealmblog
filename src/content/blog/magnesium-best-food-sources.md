@@ -11,8 +11,8 @@ draft: false
 ---
 
  <h1>Manganese Deficiency</h1>
-            <h2>My Best Food Sources of Manganese</h2>
-          <p>Lentils, natto, sunflower seeds, hep seeds, baked sweet potatoes, shiitake, leek.</p>
+ <h2>My Best Food Sources of Manganese</h2>
+   <p>Lentils, natto, sunflower seeds, hemp seeds, baked sweet potatoes, shiitake, leek.</p>
 <h2>Symptoms of Manganese  Deficiency</h2>
 <h2>Skin:</h2><p>Skin rashes</p>
 <h2>Hair:</h2><p>Hair depigmentation, a loss of hair color, particularly in males</p>

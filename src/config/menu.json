@@ -41,15 +41,11 @@
       "url": "/blog"
     },
     {
-      "name": "Contact",
-      "url": "/contact"
+      "name": "Stay Updated",
+      "url": "/stay-updated"
     }
   ],
   "footer": [
-    {
-      "name": "Elements",
-      "url": "/elements"
-    },
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"

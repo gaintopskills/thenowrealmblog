@@ -6,8 +6,8 @@ banner:
   image: "/images/sign-up-for-longevity-and-health-newsletter.webp"
   button:
     enable: true
-    label: "Longevity Tools"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Stay Updated"
+    link: "https://thenowrealm.com/blog/"
 
 # Features
 features:
@@ -19,9 +19,10 @@ features:
       - Exercise
       - Mindset
     button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
+      enable: true
+      label: "browse"
+      link: "https://thenowrealm.com/blog/"
+
 
   - title: "Fitness Tools"
     image: "/images/longevity.webp"
@@ -31,8 +32,8 @@ features:
       - Longevity exersises
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "browse"
+      link: "https://thenowrealm.com/blog/"
 
   - title: "Nutritional Tools"
     image: "/images/the-secrets-to-optimal-nutrition.webp"
@@ -41,9 +42,8 @@ features:
       - Nutrient Deficiencies 
       - Foods thta fix nutrient deficiencies
       - "My Best Diet"
-     
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "browse"
+      link: "https://thenowrealm.com/blog/"
 ---

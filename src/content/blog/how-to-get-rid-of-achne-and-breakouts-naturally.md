@@ -4,9 +4,9 @@ meta_title: ""
 description: "Acne and breakouts are caused by more than one factor. Discover undelining issues and how to fix them to get rid of acne"
 date: 2022-04-04T05:00:00Z
 image: "/images/how-to-get-rid-of-acne-naturally.webp"
-categories: ["Fix symptoms nutrient deficiencies"]
+categories: ["Fix Your Health"]
 author: "Vega"
-tags: ["fix symptoms nutrient deficiencies"]
+tags: ["acne"]
 draft: false
 ---
 

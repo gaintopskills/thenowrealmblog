@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/b1-food-sources-b1-vitamin-deficiency.webp"
 categories: ["Nutrient Deficiencies"]
-author: "John Doe"
+author: "Vega"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---

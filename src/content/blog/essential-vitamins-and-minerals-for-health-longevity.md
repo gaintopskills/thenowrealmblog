@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/essencial-vitamins-and-minerals.webp"
 categories: ["Nutrient Deficiencies", "Weight Loss"]
-author: "Sam Wilson"
+author: "Vega"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---

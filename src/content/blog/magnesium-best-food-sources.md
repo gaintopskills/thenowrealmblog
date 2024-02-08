@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2022-04-04T05:00:00Z
 image: "/images/Manganese-vegeterian-food-sources.webp"
 categories: ["Nutrient Deficiencies"]
-author: "John Doe"
+author: "Vega"
 tags: ["vitamins", "nutrient deficiencies"]
 draft: false
 ---

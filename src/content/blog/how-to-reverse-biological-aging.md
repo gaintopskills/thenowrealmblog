@@ -10,8 +10,6 @@ tags: ["age reversal", "sitruins", "hallmarks of aging"]
 draft: false
 ---
 
-<h2>How to reverse biological age?</h2>
-
 
 <p>I am only qualified to speak on the subject of age reversal because I have in fact reversed my biological age. There are many others who were able to do so as well, however my personal results are pretty amazing. I was able to reverse my biological age by 7 years in just 10 months.</p>
 

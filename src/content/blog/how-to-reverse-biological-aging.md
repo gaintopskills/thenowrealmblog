@@ -1,13 +1,15 @@
 ---
-title: "How to Reverse Biological Age"
+title: "How to Reverse Biological Aging"
 meta_title: ""
-description: "Biological age reversal is possible but requitres some knowledge"
+description: "Acne and breakouts are caused by more than one factor. Discover undelining issues and how to fix them to get rid of acne"
+date: 2022-04-04T05:00:00Z
 image: "/images/how-to-reverse-biological-age.webp"
 categories: ["Age Reversal", "Longevity"]
 author: "Vega"
-tags: ["age reversal"]
+tags: ["age reversal", "sitruins", "hallmarks of aging"]
 draft: false
 ---
+
 <h2>How to reverse biological age?</h2>
 
 
@@ -72,7 +74,7 @@ Epigenetics can be heavily influenced by our diet and lifestyle choices. Which i
 <p>This is my favorite subject in the field of longevity because it is highly malleable. Epigenetic alterations are changes in DNA methylation pattern and can be influenced by our lifestyle. Read my blog on this topic here. The best way to positively influence DNA methylation is to get very specific nutrients in the diet. My Best Diet revolves around this concept. </p>
 
 
-<h3>Loss of Proteostasis
+<h3>Loss of Proteostasis</h3>
 
 
 <p>Every tissue in every cell is built out of proteins. When the mechanism that builds these proteins is compromised, it's called loss of proteostasis. Proteostasis looks like stable and healthy produced proteins in the body. When we loose proteostasis, these proteins are folded incorrectly. Proteostasis is when there are not too many or too few of specific proteins and they are not bound to anything that will cause them to malfunction. </p>

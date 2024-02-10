@@ -159,9 +159,9 @@ Aside from that, regulating hormones in general can help with improving intercel
 
 
 <p>
-https://www.nature.com/articles/s41598-023-38843-x#:~:text=Firstly%2C%20high%2Dintensity%20or%20fasted,expression%20in%20human%20skeletal%20muscle.<br>
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426493/<br>
-https://oxfordhealthspan.com/blogs/aging-well/disabled-macroautophagy-hallmark-of-aging-10
+1. https://www.nature.com/articles/s41598-023-38843-x#:~:text=Firstly%2C%20high%2Dintensity%20or%20fasted,expression%20in%20human%20skeletal%20muscle.<br><br>
+2. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7426493/<br><br>
+3. https://oxfordhealthspan.com/blogs/aging-well/disabled-macroautophagy-hallmark-of-aging-10
 </p>
 
 

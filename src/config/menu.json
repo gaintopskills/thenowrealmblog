@@ -5,10 +5,6 @@
       "url": "/"
     },
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
       "name": "My Best Diet",
       "url": "/healthiest-diet-for-a-human-in-the-world"
     },
@@ -43,6 +39,10 @@
     {
       "name": "Stay Updated",
       "url": "/stay-updated"
+    },
+    {
+      "name": "About",
+      "url": "/about"
     }
   ],
   "footer": [

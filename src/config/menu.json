@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "My Best Diet",
+      "url": "/healthiest-diet-for-a-human-in-the-world"
+    },
+    {
       "name": "Weight Loss",
       "url": "/categories/weight-loss"
     },
@@ -24,10 +28,6 @@
         {
           "name": "Symptoms of Nutrient Deficiencies",
           "url": "/fix-symptoms-of-nutrient-deficiencies"
-        },
-        {
-          "name": "My Best Diet",
-          "url": "/healthiest-diet-for-a-human-in-the-world"
         },
         {
           "name": "Vegeterian Survival Guide",

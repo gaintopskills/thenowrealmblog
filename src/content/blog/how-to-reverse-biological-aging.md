@@ -69,7 +69,7 @@ Epigenetics can be heavily influenced by our diet and lifestyle choices. Which i
 <h3>Epigenetic alterations</h3>
 
 
-<p>This is my favorite subject in the field of longevity because it is highly malleable. Epigenetic alterations are changes in DNA methylation pattern and can be influenced by our lifestyle. Read my blog on this topic here. The best way to positively influence DNA methylation is to get very specific nutrients in the diet. My Best Diet revolves around this concept. </p>
+<p>This is my favorite subject in the field of longevity because it is highly malleable. Epigenetic alterations are changes in DNA methylation pattern and can be influenced by our lifestyle. Read my blog on this topic here. The best way to positively influence DNA methylation is to get very specific nutrients in the diet. <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet</a> revolves around this concept. </p>
 
 
 <h3>Loss of Proteostasis</h3>
@@ -93,7 +93,7 @@ Epigenetics can be heavily influenced by our diet and lifestyle choices. Which i
 <p>2. Sauna and cold exposure are also great because they activate heat shock proteins. These heat shock proteins help proteins in the body fold correctly. </p>
 
 
-<p> 3. And of course My Best Diet that supports DNA methylation is a must for balancing proteostasis.
+<p> 3. And of course  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet</a> that supports DNA methylation is a must for balancing proteostasis.
 </p>
 
 
@@ -103,11 +103,11 @@ Epigenetics can be heavily influenced by our diet and lifestyle choices. Which i
 <p> This is a new hallmark of aging (3) that has to do with autophagy or the body’s self cleaning mechanism. MTor regulation helps to regulate autophagy. When mTor is overactive, autophagy is underactive and vice versa.</p>
 
 
-<p>Again, My Best Diet helps to regulate these two processes. Intermittent fasting, workouts, and especially prolonged fasting greatly help with upregulating the process of autophagy. </p>
+<p>Again,  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet</a> helps to regulate these two processes. Intermittent fasting, workouts, and especially prolonged fasting greatly help with upregulating the process of autophagy. </p>
 
 
 <h3>Deregulated nutrient sensing </h3>
-<p>This hallmark of aging is self explanatory. Deregulated nutrient sensing has a lot to do with which genes are turned on and which genes are turned off. DNA methylation supporting diet, or My Best Diet in my personal case helps with fixing this problem.</p>
+<p>This hallmark of aging is self explanatory. Deregulated nutrient sensing has a lot to do with which genes are turned on and which genes are turned off.  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation supporting diet</a>, or  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet </a> in my personal case helps with fixing this problem.</p>
 .
 <h3>Mitochondrial dysfunction</h3>
 <p> Mitochondria has its own DNA and is crucial because it provides us with the energy. This energy is also needed for DNA repair mechanics. Mitochondrial DNA, just like nucleic DNA, is also repaired by specific sirtuins. They are SIRT3, SIRT4, and SIRT5. Upregulating these sirtuins will help with the health of mitochondria. </p>
@@ -119,21 +119,21 @@ Epigenetics can be heavily influenced by our diet and lifestyle choices. Which i
 
 
 <h3>Cellular senescence </h3>
-<p>Cellular senescence aka accumulation of zombie cells in the body. Senescent cells are cells that do not serve a specific function anymore but refuse to die. Not only do they refuse to die, but they also inflame the cells around them. I fast to keep senescent cells at bay in my body, keep my BMI low, avoid junk food, and of course eat DNA methylation supportive diet or My Best Diet. </p>
+<p>Cellular senescence aka accumulation of zombie cells in the body. Senescent cells are cells that do not serve a specific function anymore but refuse to die. Not only do they refuse to die, but they also inflame the cells around them. I fast to keep senescent cells at bay in my body, keep my BMI low, avoid junk food, and of course eat  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation supportive diet</a> or  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet</a>. </p>
 
 
 <h3>Stem cell exhaustion </h3>
 <p> Stem cells are these amazing cells that can turn into many different cells and can become parts of many different organs. Stem cells are magical which makes stem cell exhaustion a very thrustrating subject. </p>
 
 
-<p>There are methods of repopulating stem cells that I am sort of aware of, but didn’t have time yet to truly work on this issue of stem cell exhaustion. It is also yet to be determined how DNA methylation diet is affecting stem cells. I will be writing more about this in the future.</p>
+<p>There are methods of repopulating stem cells that I am sort of aware of, but didn’t have time yet to truly work on this issue of stem cell exhaustion. It is also yet to be determined how  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation diet</a> is affecting stem cells. I will be writing more about this in the future.</p>
 
 
 <h3>Altered intercellular communication </h3>
 <p> Intercellular communication in an intricate system of chemical signaling that the cells use to communicate with one another.. And it goes on all the time. Cells release molecules that travel through the circulatory system to distant cells, and can then alter the function in these cells. When this function becomes distorted, we can get into trouble because if the cells are not communicating the right way, they are not functioning the right way.</p>
 
 
-<p>There is a lot that could be said here in terms of how to address intercellular communication. DNA methylation supportive diet is certainly something that can have a positive effect on it. However, one thing I didn’t touch on is balancing out hormones. Since hormones are messenger molecules that help our cells communicate with one another, it becomes one of the priorities to balance them out. </p>
+<p>There is a lot that could be said here in terms of how to address intercellular communication.  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation supportive diet</a> is certainly something that can have a positive effect on it. However, one thing I didn’t touch on is balancing out hormones. Since hormones are messenger molecules that help our cells communicate with one another, it becomes one of the priorities to balance them out. </p>
 
 
 <p>Balancing out hormones can become tricky with age since glands - organs that produce hormones slowly lose their function. This happens because glands become fibrotic, shrink in size, and have fat deposits. As it was shown in TRIIM trial conducted by Greg Fahy it is possible to regenerate at least thymus. And if it is possible to regenerate thymus, we can have hope for other glands as well. </p>
@@ -144,14 +144,14 @@ Aside from that, regulating hormones in general can help with improving intercel
 
 
 <h3>Chronic inflammation</h3>
-<p> this is another new hallmark of aging that everyone heard about by now. DNA methylation supporting diet and keeping blood sugar low are my favorite methods for combating inflammation. Other methods are fasting and working out.</p>
+<p> this is another new hallmark of aging that everyone heard about by now.  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation supporting diet</a> and keeping blood sugar low are my favorite methods for combating inflammation. Other methods are fasting and working out.</p>
 
 
 <h3>Dysbiosis</h3>
 <p> Dysbiosis or microbiome disturbance. The concept of microbiome went over my head for many years. However, it has so much to do with our health! Microbes in our gut for example produce metabolites - chemicals that are either beneficial to our health or not beneficial. In order to fix my microbiome I tested a couple of times with Viome and followed their recommendations. </p>
 
 
-<p>Interestingly, now that I am implementing a DNA methylation supportive diet or My Best Diet, it turned out to be very beneficial for the wellbeing of my microbiome and remains the main way for me to address the issue of dysbiosis. Good news is that dysbiosis is trackable via testing and can be influenced by our dietary choices. </p>
+<p>Interestingly, now that I am implementing a  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">DNA methylation supportive diet</a> or  <a href="https://thenowrealm.com/healthiest-diet-for-a-human-in-the-world/" title="best diet for a human" target=>'_blank">My Best Diet</a>, it turned out to be very beneficial for the wellbeing of my microbiome and remains the main way for me to address the issue of dysbiosis. Good news is that dysbiosis is trackable via testing and can be influenced by our dietary choices. </p>
 
 
 

@@ -26,7 +26,7 @@ features:
 
   - title: "Fitness Tools"
     image: "/images/longevity.webp"
-    content: You owe it to both yourself and your family to cultivate a robust and healthy body. However, many individuals often find themselves uncertain about where to commence or how to sustain their journey. I am here to not only demonstrate what I personally undertake but also to guide you on your own path.
+    content: You owe it to yourself and your loved ones to cultivate a robust and healthy body. However, many individuals often need clarification about where to begin or how to sustain their fitness journey. I am here to share what I know and to provide some guidance. 
     bulletpoints:
       - Types of workouts
       - Longevity exersises
@@ -37,10 +37,10 @@ features:
 
   - title: "Nutritional Tools"
     image: "/images/the-secrets-to-optimal-nutrition.webp"
-    content: Nutrition is a complex field that demands a deep understanding. It encompasses more than just weight management; it involves protecting your body from the adverse effects of nutrient deficiencies or excesses. It might come as a surprise that through proper nutrition, you can potentially decelerate the aging process and even reverse some DNA damage. Allow me to demonstrate how.
+    content: Nutrition is a complex field that demands a deep understanding. It encompasses more than just weight management; it involves protecting your body from the adverse effects of nutrient deficiencies or excesses. It might be a surprise that you can decelerate the aging process and reverse some DNA damage through proper nutrition. You will find all the information about it on my blog.
     bulletpoints:
-      - Nutrient Deficiencies 
-      - Foods thta fix nutrient deficiencies
+      - Nutrient deficiencies 
+      - Foods that fix nutrient deficiencies
       - "My Best Diet"
     button:
       enable: true

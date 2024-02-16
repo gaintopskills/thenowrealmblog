@@ -13,7 +13,7 @@ banner:
 features:
   - title: "Weight Loss Tools"
     image: "/images/weight-loss-secrets-and-tricks-600.webp"
-    content: "Losing weight is a challenginf task for many. I, too, faced my own share of struggles during a time when reliable information was scarce. It took me years of diligent research, reading countless books and articles, to finally discover what worked best for me. Eventually, I triumphed over this challenge, not only shedding the excess pounds but also maintaining a healthy weight. Now, I want to share with you what I know and help you on your journey."
+    content: Losing weight is a challenging task for many. I, too, faced my share of struggles during a time when reliable information was scarce. It took me years of diligent research, reading countless books and articles, to finally discover what worked best for me. Eventually, I triumphed over this challenge, shedding the excess pounds and maintaining a healthy weight. I want to share what I know and help you on your journey.
     bulletpoints:
       - Nutrition
       - Exercise
